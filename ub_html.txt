@@ -1,0 +1,494 @@
+<!DOCTYPE html><html lang="en" class="fontawesome-i2svg-active fontawesome-i2svg-complete"><head>
+		<title>Search skin tag remover</title>
+
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="description" content="Search skin tag remover">
+		<meta name="keywords" content="tiktok search, tiktok lookup, tiktok finder, tiktok search viewer">
+
+		<style type="text/css">svg:not(:root).svg-inline--fa{overflow:visible}.svg-inline--fa{display:inline-block;font-size:inherit;height:1em;overflow:visible;vertical-align:-.125em}.svg-inline--fa.fa-lg{vertical-align:-.225em}.svg-inline--fa.fa-w-1{width:.0625em}.svg-inline--fa.fa-w-2{width:.125em}.svg-inline--fa.fa-w-3{width:.1875em}.svg-inline--fa.fa-w-4{width:.25em}.svg-inline--fa.fa-w-5{width:.3125em}.svg-inline--fa.fa-w-6{width:.375em}.svg-inline--fa.fa-w-7{width:.4375em}.svg-inline--fa.fa-w-8{width:.5em}.svg-inline--fa.fa-w-9{width:.5625em}.svg-inline--fa.fa-w-10{width:.625em}.svg-inline--fa.fa-w-11{width:.6875em}.svg-inline--fa.fa-w-12{width:.75em}.svg-inline--fa.fa-w-13{width:.8125em}.svg-inline--fa.fa-w-14{width:.875em}.svg-inline--fa.fa-w-15{width:.9375em}.svg-inline--fa.fa-w-16{width:1em}.svg-inline--fa.fa-w-17{width:1.0625em}.svg-inline--fa.fa-w-18{width:1.125em}.svg-inline--fa.fa-w-19{width:1.1875em}.svg-inline--fa.fa-w-20{width:1.25em}.svg-inline--fa.fa-pull-left{margin-right:.3em;width:auto}.svg-inline--fa.fa-pull-right{margin-left:.3em;width:auto}.svg-inline--fa.fa-border{height:1.5em}.svg-inline--fa.fa-li{width:2em}.svg-inline--fa.fa-fw{width:1.25em}.fa-layers svg.svg-inline--fa{bottom:0;left:0;margin:auto;position:absolute;right:0;top:0}.fa-layers{display:inline-block;height:1em;position:relative;text-align:center;vertical-align:-.125em;width:1em}.fa-layers svg.svg-inline--fa{-webkit-transform-origin:center center;transform-origin:center center}.fa-layers-counter,.fa-layers-text{display:inline-block;position:absolute;text-align:center}.fa-layers-text{left:50%;top:50%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%);-webkit-transform-origin:center center;transform-origin:center center}.fa-layers-counter{background-color:#ff253a;border-radius:1em;-webkit-box-sizing:border-box;box-sizing:border-box;color:#fff;height:1.5em;line-height:1;max-width:5em;min-width:1.5em;overflow:hidden;padding:.25em;right:0;text-overflow:ellipsis;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top right;transform-origin:top right}.fa-layers-bottom-right{bottom:0;right:0;top:auto;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:bottom right;transform-origin:bottom right}.fa-layers-bottom-left{bottom:0;left:0;right:auto;top:auto;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:bottom left;transform-origin:bottom left}.fa-layers-top-right{right:0;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top right;transform-origin:top right}.fa-layers-top-left{left:0;right:auto;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top left;transform-origin:top left}.fa-lg{font-size:1.3333333333em;line-height:.75em;vertical-align:-.0667em}.fa-xs{font-size:.75em}.fa-sm{font-size:.875em}.fa-1x{font-size:1em}.fa-2x{font-size:2em}.fa-3x{font-size:3em}.fa-4x{font-size:4em}.fa-5x{font-size:5em}.fa-6x{font-size:6em}.fa-7x{font-size:7em}.fa-8x{font-size:8em}.fa-9x{font-size:9em}.fa-10x{font-size:10em}.fa-fw{text-align:center;width:1.25em}.fa-ul{list-style-type:none;margin-left:2.5em;padding-left:0}.fa-ul>li{position:relative}.fa-li{left:-2em;position:absolute;text-align:center;width:2em;line-height:inherit}.fa-border{border:solid .08em #eee;border-radius:.1em;padding:.2em .25em .15em}.fa-pull-left{float:left}.fa-pull-right{float:right}.fa.fa-pull-left,.fab.fa-pull-left,.fal.fa-pull-left,.far.fa-pull-left,.fas.fa-pull-left{margin-right:.3em}.fa.fa-pull-right,.fab.fa-pull-right,.fal.fa-pull-right,.far.fa-pull-right,.fas.fa-pull-right{margin-left:.3em}.fa-spin{-webkit-animation:fa-spin 2s infinite linear;animation:fa-spin 2s infinite linear}.fa-pulse{-webkit-animation:fa-spin 1s infinite steps(8);animation:fa-spin 1s infinite steps(8)}@-webkit-keyframes fa-spin{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}@keyframes fa-spin{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}.fa-rotate-90{-webkit-transform:rotate(90deg);transform:rotate(90deg)}.fa-rotate-180{-webkit-transform:rotate(180deg);transform:rotate(180deg)}.fa-rotate-270{-webkit-transform:rotate(270deg);transform:rotate(270deg)}.fa-flip-horizontal{-webkit-transform:scale(-1,1);transform:scale(-1,1)}.fa-flip-vertical{-webkit-transform:scale(1,-1);transform:scale(1,-1)}.fa-flip-both,.fa-flip-horizontal.fa-flip-vertical{-webkit-transform:scale(-1,-1);transform:scale(-1,-1)}:root .fa-flip-both,:root .fa-flip-horizontal,:root .fa-flip-vertical,:root .fa-rotate-180,:root .fa-rotate-270,:root .fa-rotate-90{-webkit-filter:none;filter:none}.fa-stack{display:inline-block;height:2em;position:relative;width:2.5em}.fa-stack-1x,.fa-stack-2x{bottom:0;left:0;margin:auto;position:absolute;right:0;top:0}.svg-inline--fa.fa-stack-1x{height:1em;width:1.25em}.svg-inline--fa.fa-stack-2x{height:2em;width:2.5em}.fa-inverse{color:#fff}.sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.sr-only-focusable:active,.sr-only-focusable:focus{clip:auto;height:auto;margin:0;overflow:visible;position:static;width:auto}.svg-inline--fa .fa-primary{fill:var(--fa-primary-color,currentColor);opacity:1;opacity:var(--fa-primary-opacity,1)}.svg-inline--fa .fa-secondary{fill:var(--fa-secondary-color,currentColor);opacity:.4;opacity:var(--fa-secondary-opacity,.4)}.svg-inline--fa.fa-swap-opacity .fa-primary{opacity:.4;opacity:var(--fa-secondary-opacity,.4)}.svg-inline--fa.fa-swap-opacity .fa-secondary{opacity:1;opacity:var(--fa-primary-opacity,1)}.svg-inline--fa mask .fa-primary,.svg-inline--fa mask .fa-secondary{fill:#000}.fad.fa-inverse{color:#fff}</style><link rel="manifest" href="https://urlebird.com/manifest.json">
+
+		<link rel="canonical" href="https://urlebird.com/search/">
+		<meta name="robots" content="max-image-preview:large">
+
+		<link rel="preconnect" href="//code.jquery.com">
+		<link rel="preconnect" href="//cdnjs.cloudflare.com">
+		<link rel="preconnect" href="//stackpath.bootstrapcdn.com">
+		<link rel="preconnect" href="//kit.fontawesome.com">
+		<link rel="preconnect" href="//googletagmanager.com">
+
+		<link rel="dns-prefetch" href="//code.jquery.com">
+		<link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
+		<link rel="dns-prefetch" href="//stackpath.bootstrapcdn.com">
+		<link rel="dns-prefetch" href="//kit.fontawesome.com">
+		<link rel="dns-prefetch" href="//googletagmanager.com">
+
+		<link rel="alternate" href="https://urlebird.com/search/?q=skin tag remover" hreflang="x-default">
+		<link rel="alternate" href="https://urlebird.com/search/?q=skin tag remover" hreflang="en">
+		<link rel="alternate" href="https://urlebird.com/ru/search/?q=skin tag remover" hreflang="ru">
+		<link rel="alternate" href="https://urlebird.com/ua/search/?q=skin tag remover" hreflang="uk">
+		<link rel="alternate" href="https://urlebird.com/es/search/?q=skin tag remover" hreflang="es">
+		<link rel="alternate" href="https://urlebird.com/it/search/?q=skin tag remover" hreflang="it">
+		<link rel="alternate" href="https://urlebird.com/de/search/?q=skin tag remover" hreflang="de">
+		<link rel="alternate" href="https://urlebird.com/fr/search/?q=skin tag remover" hreflang="fr">
+		<link rel="alternate" href="https://urlebird.com/pt/search/?q=skin tag remover" hreflang="pt">
+		<link rel="alternate" href="https://urlebird.com/jp/search/?q=skin tag remover" hreflang="ja-JP">
+		<link rel="alternate" href="https://urlebird.com/tw/search/?q=skin tag remover" hreflang="zh-TW">
+		<link rel="alternate" href="https://urlebird.com/id/search/?q=skin tag remover" hreflang="id">
+
+		<link rel="icon" type="image/webp" href="https://urlebird.com/tml/images/icons/48x48.webp" sizes="48x48">
+		<link rel="icon" type="image/webp" href="https://urlebird.com/tml/images/icons/64x64.webp" sizes="64x64">
+		<link rel="icon" type="image/webp" href="https://urlebird.com/tml/images/icons/72x72.webp" sizes="72x72">
+		<link rel="icon" type="image/webp" href="https://urlebird.com/tml/images/icons/152x152.webp" sizes="152x152">
+		<link rel="icon" type="image/webp" href="https://urlebird.com/tml/images/icons/180x180.webp" sizes="180x180">
+		<link rel="icon" type="image/webp" href="https://urlebird.com/tml/images/icons/256x256.webp" sizes="256x256">
+		<link rel="apple-touch-icon" type="image/webp" href="https://urlebird.com/tml/images/icons/180x180.webp" sizes="180x180">
+
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+		<link rel="stylesheet" href="https://urlebird.com/tml/css/styles.css?v=2.1">
+
+		<!-- Quantcast Choice. Consent Manager Tag v2.0 (for TCF 2.0) -->
+ 		<script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-LC23RQB8HX&amp;cx=c&amp;gtm=4e69g1"></script><script async="" type="text/javascript" src="https://cmp.inmobi.com/tcfv2/56/cmp2.js?referer=www.themoneytizer.com"></script><script async="" type="text/javascript" src="https://cmp.inmobi.com/choice/6Fv0cGNfc_bw8/www.themoneytizer.com/choice.js?tag_version=V3"></script><script src="https://urlebird.com/tml/js/cm.js?v=6"></script>
+		<!-- End Quantcast Choice. Consent Manager Tag v2.0 (for TCF 2.0) -->
+		
+
+
+	<style type="text/css"> .qc-cmp-button.qc-cmp-secondary-button:hover {    background-color: #368bd6 !important;    border-color: transparent !important;  }  .qc-cmp-button.qc-cmp-secondary-button:hover {    color: #ffffff !important;  }  .qc-cmp-button.qc-cmp-secondary-button {    color: #368bd6 !important;  }  .qc-cmp-button.qc-cmp-secondary-button {    background-color: #eee !important;    border-color: transparent !important;  } </style></head>
+	<body>
+				<!-- header hidden collapse for mobile -->
+
+		<div class="collapse" id="navbarToggleExternalContent">
+			<div class="bg-black p-3">
+				<div class="navbar-collapse" id="navbarNavDropdown">
+					<ul class="navbar-nav">
+						<li class="nav-item active"><a class="link" href="https://urlebird.com/">Home</a></li>
+						<li class="nav-item"><a class="link" href="https://urlebird.com/trending/">Trending</a></li>
+						<li class="nav-item"><a class="link" href="https://urlebird.com/videos/popular/">Videos</a></li>
+						<li class="nav-item"><a class="link" href="https://urlebird.com/users/popular/">Users</a></li>
+						<li class="nav-item"><a class="link" href="https://urlebird.com/hashtags/popular/">Hashtags</a></li>
+						<li class="nav-item"><a class="link" href="https://urlebird.com/music/popular/">Music</a></li>			
+						<li class="nav-item"><a class="link" href="https://urlebird.com/anonymous/">Anonymous</a></li>				
+						<li class="nav-item"><a class="link" href="https://urlebird.com/snap/">Downloader</a></li>
+						<li class="nav-item">
+							<form id="search" class="my-2" action="https://urlebird.com/search/" method="GET">
+								<div class="h-100">
+									<div class="d-flex h-100">
+										<div class="searchbar">
+											<input class="search" type="text" name="q" placeholder=" Search @user or #hash">
+											<a href="#" class="search-icon" id="a_search"><svg class="svg-inline--fa fa-search fa-w-16" aria-hidden="true" focusable="false" data-prefix="fa" data-icon="search" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"></path></svg><!-- <i class="fa fa-search"></i> Font Awesome fontawesome.com --></a>
+										</div>
+									</div>
+								</div>
+							</form>
+						</li>
+						<li class="nav-item">
+							<div class="dropdown my-2">
+								<button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+									Language <svg class="svg-inline--fa fa-globe-americas fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="globe-americas" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512" data-fa-i2svg=""><path fill="currentColor" d="M248 8C111.03 8 0 119.03 0 256s111.03 248 248 248 248-111.03 248-248S384.97 8 248 8zm82.29 357.6c-3.9 3.88-7.99 7.95-11.31 11.28-2.99 3-5.1 6.7-6.17 10.71-1.51 5.66-2.73 11.38-4.77 16.87l-17.39 46.85c-13.76 3-28 4.69-42.65 4.69v-27.38c1.69-12.62-7.64-36.26-22.63-51.25-6-6-9.37-14.14-9.37-22.63v-32.01c0-11.64-6.27-22.34-16.46-27.97-14.37-7.95-34.81-19.06-48.81-26.11-11.48-5.78-22.1-13.14-31.65-21.75l-.8-.72a114.792 114.792 0 0 1-18.06-20.74c-9.38-13.77-24.66-36.42-34.59-51.14 20.47-45.5 57.36-82.04 103.2-101.89l24.01 12.01C203.48 89.74 216 82.01 216 70.11v-11.3c7.99-1.29 16.12-2.11 24.39-2.42l28.3 28.3c6.25 6.25 6.25 16.38 0 22.63L264 112l-10.34 10.34c-3.12 3.12-3.12 8.19 0 11.31l4.69 4.69c3.12 3.12 3.12 8.19 0 11.31l-8 8a8.008 8.008 0 0 1-5.66 2.34h-8.99c-2.08 0-4.08.81-5.58 2.27l-9.92 9.65a8.008 8.008 0 0 0-1.58 9.31l15.59 31.19c2.66 5.32-1.21 11.58-7.15 11.58h-5.64c-1.93 0-3.79-.7-5.24-1.96l-9.28-8.06a16.017 16.017 0 0 0-15.55-3.1l-31.17 10.39a11.95 11.95 0 0 0-8.17 11.34c0 4.53 2.56 8.66 6.61 10.69l11.08 5.54c9.41 4.71 19.79 7.16 30.31 7.16s22.59 27.29 32 32h66.75c8.49 0 16.62 3.37 22.63 9.37l13.69 13.69a30.503 30.503 0 0 1 8.93 21.57 46.536 46.536 0 0 1-13.72 32.98zM417 274.25c-5.79-1.45-10.84-5-14.15-9.97l-17.98-26.97a23.97 23.97 0 0 1 0-26.62l19.59-29.38c2.32-3.47 5.5-6.29 9.24-8.15l12.98-6.49C440.2 193.59 448 223.87 448 256c0 8.67-.74 17.16-1.82 25.54L417 274.25z"></path></svg><!-- <i class="fas fa-globe-americas"></i> Font Awesome fontawesome.com -->
+								</button>
+									<div class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+										<a class="dropdown-item" href="https://urlebird.com/search/?q=skin tag remover">🇺🇸 English</a>
+										<a class="dropdown-item" href="https://urlebird.com/es/search/?q=skin tag remover">🇪🇸 Español</a>
+										<a class="dropdown-item" href="https://urlebird.com/it/search/?q=skin tag remover">🇮🇹 Italiano</a>
+										<a class="dropdown-item" href="https://urlebird.com/de/search/?q=skin tag remover">🇩🇪 Deutsch</a>
+										<a class="dropdown-item" href="https://urlebird.com/fr/search/?q=skin tag remover">🇫🇷 Français</a>
+										<a class="dropdown-item" href="https://urlebird.com/pt/search/?q=skin tag remover">🇵🇹 Português</a>
+										<a class="dropdown-item" href="https://urlebird.com/jp/search/?q=skin tag remover">🇯🇵 日本語</a>
+										<a class="dropdown-item" href="https://urlebird.com/tw/search/?q=skin tag remover">🇹🇼 中文</a>
+										<a class="dropdown-item" href="https://urlebird.com/id/search/?q=skin tag remover">🇮🇩 Bahasa</a>
+										<a class="dropdown-item" href="https://urlebird.com/ru/search/?q=skin tag remover">ru Русский</a>
+										<a class="dropdown-item" href="https://urlebird.com/ua/search/?q=skin tag remover">🇺🇦 Українська</a>										
+									</div>
+							</div>
+						</li>		 
+					</ul>
+				</div>	
+			</div>
+		</div>
+		<!-- /end/ header collapse for mobile -->
+		
+		<nav class="navbar navbar-expand-lg navbar-dark bg-black">
+			<div class="container-fluid">
+				<a href="https://urlebird.com/" class="navbar-left"><img src="https://urlebird.com/tml/images/logo.png" class="logo" alt="Urlebird TikTok Viewer"></a>
+				<div class="mr-auto d-lg-none">
+					<div class="dropdown my-2">
+						<button class="btn btn-secondary dropdown-toggle lang-btn" type="button" id="dropdownMenuButton2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+							<span class="size-23px">🇺🇸 <span class="w-35px"><svg class="svg-inline--fa fa-language fa-w-20" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="language" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" data-fa-i2svg=""><path fill="currentColor" d="M152.1 236.2c-3.5-12.1-7.8-33.2-7.8-33.2h-.5s-4.3 21.1-7.8 33.2l-11.1 37.5H163zM616 96H336v320h280c13.3 0 24-10.7 24-24V120c0-13.3-10.7-24-24-24zm-24 120c0 6.6-5.4 12-12 12h-11.4c-6.9 23.6-21.7 47.4-42.7 69.9 8.4 6.4 17.1 12.5 26.1 18 5.5 3.4 7.3 10.5 4.1 16.2l-7.9 13.9c-3.4 5.9-10.9 7.8-16.7 4.3-12.6-7.8-24.5-16.1-35.4-24.9-10.9 8.7-22.7 17.1-35.4 24.9-5.8 3.5-13.3 1.6-16.7-4.3l-7.9-13.9c-3.2-5.6-1.4-12.8 4.2-16.2 9.3-5.7 18-11.7 26.1-18-7.9-8.4-14.9-17-21-25.7-4-5.7-2.2-13.6 3.7-17.1l6.5-3.9 7.3-4.3c5.4-3.2 12.4-1.7 16 3.4 5 7 10.8 14 17.4 20.9 13.5-14.2 23.8-28.9 30-43.2H412c-6.6 0-12-5.4-12-12v-16c0-6.6 5.4-12 12-12h64v-16c0-6.6 5.4-12 12-12h16c6.6 0 12 5.4 12 12v16h64c6.6 0 12 5.4 12 12zM0 120v272c0 13.3 10.7 24 24 24h280V96H24c-13.3 0-24 10.7-24 24zm58.9 216.1L116.4 167c1.7-4.9 6.2-8.1 11.4-8.1h32.5c5.1 0 9.7 3.3 11.4 8.1l57.5 169.1c2.6 7.8-3.1 15.9-11.4 15.9h-22.9a12 12 0 0 1-11.5-8.6l-9.4-31.9h-60.2l-9.1 31.8c-1.5 5.1-6.2 8.7-11.5 8.7H70.3c-8.2 0-14-8.1-11.4-15.9z"></path></svg><!-- <i class="fas fa-language"></i> Font Awesome fontawesome.com --></span></span>
+						</button>
+						<div class="dropdown-menu" aria-labelledby="dropdownMenuButton2">
+							<a class="dropdown-item" href="https://urlebird.com/search/?q=skin tag remover">🇺🇸 English</a>
+							<a class="dropdown-item" href="https://urlebird.com/es/search/?q=skin tag remover">🇪🇸 Español</a>
+							<a class="dropdown-item" href="https://urlebird.com/it/search/?q=skin tag remover">🇮🇹 Italiano</a>
+							<a class="dropdown-item" href="https://urlebird.com/de/search/?q=skin tag remover">🇩🇪 Deutsch</a>
+							<a class="dropdown-item" href="https://urlebird.com/fr/search/?q=skin tag remover">🇫🇷 Français</a>
+							<a class="dropdown-item" href="https://urlebird.com/pt/search/?q=skin tag remover">🇵🇹 Português</a>
+							<a class="dropdown-item" href="https://urlebird.com/jp/search/?q=skin tag remover">🇯🇵 日本語</a>
+							<a class="dropdown-item" href="https://urlebird.com/tw/search/?q=skin tag remover">🇹🇼 中文</a>
+							<a class="dropdown-item" href="https://urlebird.com/id/search/?q=skin tag remover">🇮🇩 Bahasa</a>							
+							<a class="dropdown-item" href="https://urlebird.com/ru/search/?q=skin tag remover">ru Русский</a>
+							<a class="dropdown-item" href="https://urlebird.com/ua/search/?q=skin tag remover">🇺🇦 Українська</a>
+						</div>
+					</div>
+				</div>
+				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
+					<span class="navbar-toggler-icon"></span>
+				</button>
+				<div class="collapse navbar-collapse">
+						<!-- for desktop change language in header -->
+							<div>
+								<div class="dropdown">
+									<button class="btn btn-secondary dropdown-toggle lang-btn" type="button" id="dropdownMenuButton3" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+										<span>🇺🇸 <span class="w-35px"><svg class="svg-inline--fa fa-language fa-w-20" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="language" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" data-fa-i2svg=""><path fill="currentColor" d="M152.1 236.2c-3.5-12.1-7.8-33.2-7.8-33.2h-.5s-4.3 21.1-7.8 33.2l-11.1 37.5H163zM616 96H336v320h280c13.3 0 24-10.7 24-24V120c0-13.3-10.7-24-24-24zm-24 120c0 6.6-5.4 12-12 12h-11.4c-6.9 23.6-21.7 47.4-42.7 69.9 8.4 6.4 17.1 12.5 26.1 18 5.5 3.4 7.3 10.5 4.1 16.2l-7.9 13.9c-3.4 5.9-10.9 7.8-16.7 4.3-12.6-7.8-24.5-16.1-35.4-24.9-10.9 8.7-22.7 17.1-35.4 24.9-5.8 3.5-13.3 1.6-16.7-4.3l-7.9-13.9c-3.2-5.6-1.4-12.8 4.2-16.2 9.3-5.7 18-11.7 26.1-18-7.9-8.4-14.9-17-21-25.7-4-5.7-2.2-13.6 3.7-17.1l6.5-3.9 7.3-4.3c5.4-3.2 12.4-1.7 16 3.4 5 7 10.8 14 17.4 20.9 13.5-14.2 23.8-28.9 30-43.2H412c-6.6 0-12-5.4-12-12v-16c0-6.6 5.4-12 12-12h64v-16c0-6.6 5.4-12 12-12h16c6.6 0 12 5.4 12 12v16h64c6.6 0 12 5.4 12 12zM0 120v272c0 13.3 10.7 24 24 24h280V96H24c-13.3 0-24 10.7-24 24zm58.9 216.1L116.4 167c1.7-4.9 6.2-8.1 11.4-8.1h32.5c5.1 0 9.7 3.3 11.4 8.1l57.5 169.1c2.6 7.8-3.1 15.9-11.4 15.9h-22.9a12 12 0 0 1-11.5-8.6l-9.4-31.9h-60.2l-9.1 31.8c-1.5 5.1-6.2 8.7-11.5 8.7H70.3c-8.2 0-14-8.1-11.4-15.9z"></path></svg><!-- <i class="fas fa-language"></i> Font Awesome fontawesome.com --></span></span>
+									</button>
+									<div class="dropdown-menu" aria-labelledby="dropdownMenuButton3">
+										<a class="dropdown-item" href="https://urlebird.com/search/?q=skin tag remover">🇺🇸 English</a>
+										<a class="dropdown-item" href="https://urlebird.com/es/search/?q=skin tag remover">🇪🇸 Español</a>
+										<a class="dropdown-item" href="https://urlebird.com/it/search/?q=skin tag remover">🇮🇹 Italiano</a>
+										<a class="dropdown-item" href="https://urlebird.com/de/search/?q=skin tag remover">🇩🇪 Deutsch</a>
+										<a class="dropdown-item" href="https://urlebird.com/fr/search/?q=skin tag remover">🇫🇷 Français</a>
+										<a class="dropdown-item" href="https://urlebird.com/pt/search/?q=skin tag remover">🇵🇹 Português</a>
+										<a class="dropdown-item" href="https://urlebird.com/jp/search/?q=skin tag remover">🇯🇵 日本語</a>
+										<a class="dropdown-item" href="https://urlebird.com/tw/search/?q=skin tag remover">🇹🇼 中文</a>
+										<a class="dropdown-item" href="https://urlebird.com/id/search/?q=skin tag remover">🇮🇩 Bahasa</a>												
+										<a class="dropdown-item" href="https://urlebird.com/ru/search/?q=skin tag remover">ru Русский</a>
+										<a class="dropdown-item" href="https://urlebird.com/ua/search/?q=skin tag remover">🇺🇦 Українська</a>
+									</div>
+								</div>
+							</div>
+						<!-- /end/ for desktop change language in header -->
+					<ul class="navbar-nav mr-auto">
+						<li class="nav-item text-nowrap"><a class="link" href="https://urlebird.com/trending/">Trending</a></li>
+						<li class="nav-item text-nowrap"><a class="link" href="https://urlebird.com/videos/popular/">Videos</a></li>
+						<li class="nav-item text-nowrap"><a class="link" href="https://urlebird.com/users/popular/">Users</a></li>
+						<li class="nav-item text-nowrap"><a class="link" href="https://urlebird.com/hashtags/popular/">Hashtags</a></li>
+						<li class="nav-item text-nowrap"><a class="link" href="https://urlebird.com/music/popular/">Music</a></li>		
+						<li class="nav-item text-nowrap"><a class="link" href="https://urlebird.com/snap/">Downloader</a></li>										
+					</ul>
+					<ul class="navbar-nav search">	
+						<li class="nav-item active">
+							<form id="search2" action="https://urlebird.com/search/" method="GET">
+							<div class="container">
+								<div class="d-flex">
+									<div class="searchbar">
+										<input class="search" type="text" name="q" placeholder="Search @user or #hash">
+										<a href="#" class="search-icon" id="a_search2"><svg class="svg-inline--fa fa-search fa-w-16" aria-hidden="true" focusable="false" data-prefix="fa" data-icon="search" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"></path></svg><!-- <i class="fa fa-search"></i> Font Awesome fontawesome.com --></a>
+									</div>
+								</div>
+							</div>
+							</form>
+						</li>
+					</ul>					
+				</div>
+			</div>
+		</nav>
+		<div class="main">
+			<div class="container-fluid text-center pt-3">
+				<div class="row">
+					<div class="col-md-12 text-center">
+						<div class="d-flex mb-2 justify-content-center">
+							<div class="p-1 ml-3">
+								<h1 class="font-weight-normal">Search Results for <b>skin tag remover</b></h1>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="container-fluid text-center my-3 pt-4">
+					<div class="row">
+						<div class="col-md-6 mt-md-0 mt-3 copyright text-center">
+							<h3 class="font-weight-bold">#️⃣ Hashtags</h3>
+							<div class="tags">
+								<a href="https://urlebird.com/hash/remover/"><span class="size4">remover</span></a>, <a href="https://urlebird.com/hash/skin/"><span class="size7">skin</span></a>, <a href="https://urlebird.com/hash/tag/"><span class="size7">tag</span></a>
+							</div>
+						</div>
+						<hr class="clearfix w-100 d-md-none pb-1">
+						<div class="col-md-6 mb-md-0 mb-3 text-center">
+							<h3 class="font-weight-bold">🦄Users</h3>
+							<div class="row ml-2">
+								
+							</div>
+						</div>					
+					</div>
+				</div>				
+				<div class="row">
+					<!--
+					<div class="col-md-12 text-center mb-3">
+						<div class="tags">
+								<a href="https://urlebird.com/hash/remover/"><span class="size4">remover</span></a>, <a href="https://urlebird.com/hash/skin/"><span class="size7">skin</span></a>, <a href="https://urlebird.com/hash/tag/"><span class="size7">tag</span></a>
+							</div>
+					</div>
+					-->
+					<div class="col-md-12 text-center">
+						<h2>Videos</h2>
+					</div>
+					<div id="thumbs" class="col-md-12 text-center text-md-left p-0 pl-md-5 pl-0">
+						<div class="thumb wc">
+							<div class="author text-right">
+								<a href="https://urlebird.com/user/glowyn.products2/"><img src="https://p16-common.tiktokcdn.com/tos-useast8-avt-0068-tx2/bc3ac7696d5ed149e4faaf734d706d85~tplv-tiktokx-cropcenter:100:100.jpeg" alt="glowyn.products2"></a>
+							</div>
+							<div class="img"><img src="https://i.axod.net/pcYM7f2CwAcyHT6eNef76n5JeD84n_6jdrkleeutKz3mDHNWuvb1vAk9tHTi9QZuD5YLK1uK4JPVKIy3CdssbTBWOp8kJOZ3EUic0ve0Vy4hDMRgO2yOppSYloSAxmhejNt-REPMi1NcZvFS2dPSLpPokOxFC8Pv9CPIXQ0jzQCthg.jpeg" class="img-fluid" alt="@Glowyn Products"></div>
+							<div class="stats">
+								<div class="flex items-center mb-1"><span><svg class="svg-inline--fa fa-clock fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="clock" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M256,8C119,8,8,119,8,256S119,504,256,504,504,393,504,256,393,8,256,8Zm92.49,313h0l-20,25a16,16,0,0,1-22.49,2.5h0l-67-49.72a40,40,0,0,1-15-31.23V112a16,16,0,0,1,16-16h32a16,16,0,0,1,16,16V256l58,42.5A16,16,0,0,1,348.49,321Z"></path></svg><!-- <i class="fas fa-clock" aria-hidden="true"></i> Font Awesome fontawesome.com --> 2 weeks ago</span></div>								
+								<div class="flex items-center mb-1"><span><svg class="svg-inline--fa fa-play fa-w-14" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="play" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M424.4 214.7L72.4 6.6C43.8-10.3 0 6.1 0 47.9V464c0 37.5 40.7 60.1 72.4 41.3l352-208c31.4-18.5 31.5-64.1 0-82.6z"></path></svg><!-- <i class="fas fa-play" aria-hidden="true"></i> Font Awesome fontawesome.com --> 419.2K</span></div>									
+								<div class="flex items-center mb-1"><span><svg class="svg-inline--fa fa-heart fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="heart" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M462.3 62.6C407.5 15.9 326 24.3 275.7 76.2L256 96.5l-19.7-20.3C186.1 24.3 104.5 15.9 49.7 62.6c-62.8 53.6-66.1 149.8-9.9 207.9l193.5 199.8c12.5 12.9 32.8 12.9 45.3 0l193.5-199.8c56.3-58.1 53-154.3-9.8-207.9z"></path></svg><!-- <i class="fas fa-heart" aria-hidden="true"></i> Font Awesome fontawesome.com --> 1.2K</span></div>
+								<div class="flex items-center mb-1"><span><svg class="svg-inline--fa fa-comment fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="comment" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M256 32C114.6 32 0 125.1 0 240c0 49.6 21.4 95 57 130.7C44.5 421.1 2.7 466 2.2 466.5c-2.2 2.3-2.8 5.7-1.5 8.7S4.8 480 8 480c66.3 0 116-31.8 140.6-51.4 32.7 12.3 69 19.4 107.4 19.4 141.4 0 256-93.1 256-208S397.4 32 256 32z"></path></svg><!-- <i class="fas fa-comment" aria-hidden="true"></i> Font Awesome fontawesome.com --> 50</span></div>																						
+							</div>			
+							<div class="info3">
+								<div class="author-name"><a href="https://urlebird.com/user/glowyn.products2/">@glowyn.products2</a></div>	
+								<a href="https://urlebird.com/video/had-this-one-since-high-school-gave-it-14-days-link-in-bio-7682099784156450079/"><span>✨ Had this one since high school. Gave it 14 days. Link in b...</span></a>
+							</div>
+							<a href="https://urlebird.com/video/had-this-one-since-high-school-gave-it-14-days-link-in-bio-7682099784156450079/"><div class="overlay-s"></div></a>
+							<div class="overlay-shadow"></div>
+						</div><div class="d-block d-md-none text-center mt-1 mb-1"><iframe data-aa="2376701" src="//ad.a-ads.com/2376701?size=320x100" style="width:320px; height:100px; border:0px; padding:0; overflow:hidden; background-color: transparent;"></iframe></div><div class="thumb wc">
+							<div class="author text-right">
+								<a href="https://urlebird.com/user/drcharlesmd1/"><img src="https://p16-common.tiktokcdn.com/tos-useast5-avt-0068-tx/ec64081ba18089e03f716462e37406c8~tplv-tiktokx-cropcenter:100:100.jpeg" alt="drcharlesmd1"></a>
+							</div>
+							<div class="img"><img src="https://i.axod.net/pcaM7P2CzAcyabCea7qo6aoQ9y9ZJwNQ4rnlpvOjK1VFfRFKqzKYdXhpU2Ykz9tyPuhDF4FP4OndKixrituo0AKHe7RGbbQHYPrBDuthsC2yxxMRxbVq3_G-aDjuCrAObs7T7_lCASCm6zglFoQAdCJYCbx4c9Iha-hGd44hkGOmhQ.jpeg" class="img-fluid" alt="@💉 Dr Charles MD 💉"></div>
+							<div class="stats">
+								<div class="flex items-center mb-1"><span><svg class="svg-inline--fa fa-clock fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="clock" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M256,8C119,8,8,119,8,256S119,504,256,504,504,393,504,256,393,8,256,8Zm92.49,313h0l-20,25a16,16,0,0,1-22.49,2.5h0l-67-49.72a40,40,0,0,1-15-31.23V112a16,16,0,0,1,16-16h32a16,16,0,0,1,16,16V256l58,42.5A16,16,0,0,1,348.49,321Z"></path></svg><!-- <i class="fas fa-clock" aria-hidden="true"></i> Font Awesome fontawesome.com --> 5 months ago</span></div>								
+								<div class="flex items-center mb-1"><span><svg class="svg-inline--fa fa-play fa-w-14" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="play" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M424.4 214.7L72.4 6.6C43.8-10.3 0 6.1 0 47.9V464c0 37.5 40.7 60.1 72.4 41.3l352-208c31.4-18.5 31.5-64.1 0-82.6z"></path></svg><!-- <i class="fas fa-play" aria-hidden="true"></i> Font Awesome fontawesome.com --> 124K</span></div>									
+								<div class="flex items-center mb-1"><span><svg class="svg-inline--fa fa-heart fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="heart" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M462.3 62.6C407.5 15.9 326 24.3 275.7 76.2L256 96.5l-19.7-20.3C186.1 24.3 104.5 15.9 49.7 62.6c-62.8 53.6-66.1 149.8-9.9 207.9l193.5 199.8c12.5 12.9 32.8 12.9 45.3 0l193.5-199.8c56.3-58.1 53-154.3-9.8-207.9z"></path></svg><!-- <i class="fas fa-heart" aria-hidden="true"></i> Font Awesome fontawesome.com --> 1.56K</span></div>
+								<div class="flex items-center mb-1"><span><svg class="svg-inline--fa fa-comment fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="comment" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M256 32C114.6 32 0 125.1 0 240c0 49.6 21.4 95 57 130.7C44.5 421.1 2.7 466 2.2 466.5c-2.2 2.3-2.8 5.7-1.5 8.7S4.8 480 8 480c66.3 0 116-31.8 140.6-51.4 32.7 12.3 69 19.4 107.4 19.4 141.4 0 256-93.1 256-208S397.4 32 256 32z"></path></svg><!-- <i class="fas fa-comment" aria-hidden="true"></i> Font Awesome fontawesome.com --> 90</span></div>																						
+							</div>			
+							<div class="info3">
+								<div class="author-name"><a href="https://urlebird.com/user/drcharlesmd1/">@drcharlesmd1</a></div>	
+								<a href="https://urlebird.com/video/whats-next-7628657844597968159/"><span>what’s next? #hacks #skincare #dermatology </span></a>
+							</div>
+							<a href="https://urlebird.com/video/whats-next-7628657844597968159/"><div class="overlay-s"></div></a>
+							<div class="overlay-shadow"></div>
+						</div><div class="thumb wc">
+							<div class="author text-right">
+								<a href="https://urlebird.com/user/dermlyskin.store/"><img src="https://p16-common.tiktokcdn.com/tos-useast5-avt-0068-tx/383e294d2f24b13405878f4b6fb113e1~tplv-tiktokx-cropcenter:100:100.jpeg" alt="dermlyskin.store"></a>
+							</div>
+							<div class="img"><img src="https://i.axod.net/pcaA7P2CwAcyZXCL_PlMGF0n46WDp7_P0tjdAtRDnaChW0yv2nZWmUHaOBTj1hqNeQoY-l-TfwUn-MRbZawu5wc0NC8kAZTdTNBBxg84mLj1LJvi__0MBruDpk53USGoz23Vgnxyfzmm6hIpGuA-N6TY_KrK6xekyJ38dmkVKHe1uQ.jpeg" class="img-fluid" alt="@dermlyskin.de"></div>
+							<div class="stats">
+								<div class="flex items-center mb-1"><span><svg class="svg-inline--fa fa-clock fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="clock" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M256,8C119,8,8,119,8,256S119,504,256,504,504,393,504,256,393,8,256,8Zm92.49,313h0l-20,25a16,16,0,0,1-22.49,2.5h0l-67-49.72a40,40,0,0,1-15-31.23V112a16,16,0,0,1,16-16h32a16,16,0,0,1,16,16V256l58,42.5A16,16,0,0,1,348.49,321Z"></path></svg><!-- <i class="fas fa-clock" aria-hidden="true"></i> Font Awesome fontawesome.com --> 4 weeks ago</span></div>								
+								<div class="flex items-center mb-1"><span><svg class="svg-inline--fa fa-play fa-w-14" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="play" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M424.4 214.7L72.4 6.6C43.8-10.3 0 6.1 0 47.9V464c0 37.5 40.7 60.1 72.4 41.3l352-208c31.4-18.5 31.5-64.1 0-82.6z"></path></svg><!-- <i class="fas fa-play" aria-hidden="true"></i> Font Awesome fontawesome.com --> 1.42M</span></div>									
+								<div class="flex items-center mb-1"><span><svg class="svg-inline--fa fa-heart fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="heart" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M462.3 62.6C407.5 15.9 326 24.3 275.7 76.2L256 96.5l-19.7-20.3C186.1 24.3 104.5 15.9 49.7 62.6c-62.8 53.6-66.1 149.8-9.9 207.9l193.5 199.8c12.5 12.9 32.8 12.9 45.3 0l193.5-199.8c56.3-58.1 53-154.3-9.8-207.9z"></path></svg><!-- <i class="fas fa-heart" aria-hidden="true"></i> Font Awesome fontawesome.com --> 5.8K</span></div>
+								<div class="flex items-center mb-1"><span><svg class="svg-inline--fa fa-comment fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="comment" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M256 32C114.6 32 0 125.1 0 240c0 49.6 21.4 95 57 130.7C44.5 421.1 2.7 466 2.2 466.5c-2.2 2.3-2.8 5.7-1.5 8.7S4.8 480 8 480c66.3 0 116-31.8 140.6-51.4 32.7 12.3 69 19.4 107.4 19.4 141.4 0 256-93.1 256-208S397.4 32 256 32z"></path></svg><!-- <i class="fas fa-comment" aria-hidden="true"></i> Font Awesome fontawesome.com --> 174</span></div>																						
+							</div>			
+							<div class="info3">
+								<div class="author-name"><a href="https://urlebird.com/user/dermlyskin.store/">@dermlyskin.store</a></div>	
+								<a href="https://urlebird.com/video/link-in-biocomment-tag-if-you-need-one-of-this-too-7677307536671886605/"><span>Link in bio📍comment &amp;ldquo;TAG&amp;rdquo; if you need on...</span></a>
+							</div>
+							<a href="https://urlebird.com/video/link-in-biocomment-tag-if-you-need-one-of-this-too-7677307536671886605/"><div class="overlay-s"></div></a>
+							<div class="overlay-shadow"></div>
+						</div><div class="d-block d-md-none text-center mt-1 mb-1"><div id="frame" style="width: 300px; margin: 0 auto; "><iframe data-aa="2374085" src="//ad.a-ads.com/2374085?size=300x250" style="width:300px; height:250px; border:0px; padding:0; overflow:hidden; background-color: transparent;"></iframe><a style="display: block; text-align: right; font-size: 12px" id="frame-link" href="https://aads.com/campaigns/new/?source_id=2374085&amp;source_type=ad_unit&amp;partner=2374085">Advertise here</a></div></div><div class="thumb wc">
+							<div class="author text-right">
+								<a href="https://urlebird.com/user/dermelle74/"><img src="https://p16-common.tiktokcdn.com/tos-useast5-avt-0068-tx/246cd21704451010b69c51044efae3a0~tplv-tiktokx-cropcenter:100:100.jpeg" alt="dermelle74"></a>
+							</div>
+							<div class="img"><img src="https://i.axod.net/pcbq6P2CwAcyZXAo_gN-1arNol20QhRW3gaxOpjoqeVMaSUOGmo5062lEiCdbEwbkoIGBC17lyrcouzTh_v9vJLCMqpgZuUvak_nhsvOcsP3_DEatyGVLBG5glBAXBMUNX6V8vRPbQlTSjk9sBa4XQtfTHTVXUDc5g9Xh8m1iyOihQ.jpeg" class="img-fluid" alt="@Dermelle"></div>
+							<div class="stats">
+								<div class="flex items-center mb-1"><span><svg class="svg-inline--fa fa-clock fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="clock" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M256,8C119,8,8,119,8,256S119,504,256,504,504,393,504,256,393,8,256,8Zm92.49,313h0l-20,25a16,16,0,0,1-22.49,2.5h0l-67-49.72a40,40,0,0,1-15-31.23V112a16,16,0,0,1,16-16h32a16,16,0,0,1,16,16V256l58,42.5A16,16,0,0,1,348.49,321Z"></path></svg><!-- <i class="fas fa-clock" aria-hidden="true"></i> Font Awesome fontawesome.com --> 2 weeks ago</span></div>								
+								<div class="flex items-center mb-1"><span><svg class="svg-inline--fa fa-play fa-w-14" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="play" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M424.4 214.7L72.4 6.6C43.8-10.3 0 6.1 0 47.9V464c0 37.5 40.7 60.1 72.4 41.3l352-208c31.4-18.5 31.5-64.1 0-82.6z"></path></svg><!-- <i class="fas fa-play" aria-hidden="true"></i> Font Awesome fontawesome.com --> 26.37K</span></div>									
+								<div class="flex items-center mb-1"><span><svg class="svg-inline--fa fa-heart fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="heart" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M462.3 62.6C407.5 15.9 326 24.3 275.7 76.2L256 96.5l-19.7-20.3C186.1 24.3 104.5 15.9 49.7 62.6c-62.8 53.6-66.1 149.8-9.9 207.9l193.5 199.8c12.5 12.9 32.8 12.9 45.3 0l193.5-199.8c56.3-58.1 53-154.3-9.8-207.9z"></path></svg><!-- <i class="fas fa-heart" aria-hidden="true"></i> Font Awesome fontawesome.com --> 346</span></div>
+								<div class="flex items-center mb-1"><span><svg class="svg-inline--fa fa-comment fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="comment" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M256 32C114.6 32 0 125.1 0 240c0 49.6 21.4 95 57 130.7C44.5 421.1 2.7 466 2.2 466.5c-2.2 2.3-2.8 5.7-1.5 8.7S4.8 480 8 480c66.3 0 116-31.8 140.6-51.4 32.7 12.3 69 19.4 107.4 19.4 141.4 0 256-93.1 256-208S397.4 32 256 32z"></path></svg><!-- <i class="fas fa-comment" aria-hidden="true"></i> Font Awesome fontawesome.com --> 12</span></div>																						
+							</div>			
+							<div class="info3">
+								<div class="author-name"><a href="https://urlebird.com/user/dermelle74/">@dermelle74</a></div>	
+								<a href="https://urlebird.com/video/comment-skin-if-you-need-one-finally-found-a-way-to-remove-skin-7681040297421278478/"><span>Comment &amp;quot;Skin&amp;quot; if you need one 👇 #skintagr...</span></a>
+							</div>
+							<a href="https://urlebird.com/video/comment-skin-if-you-need-one-finally-found-a-way-to-remove-skin-7681040297421278478/"><div class="overlay-s"></div></a>
+							<div class="overlay-shadow"></div>
+						</div><div class="thumb wc">
+							<div class="author text-right">
+								<a href="https://urlebird.com/user/dailyvibewithkwins/"><img src="https://p16-sg.tiktokcdn.com/tos-maliva-avt-0068/33f8355512dd9ea1dc893236d9bf239a~tplv-tiktokx-cropcenter:100:100.jpeg" alt="dailyvibewithkwins"></a>
+							</div>
+							<div class="img"><img src="https://i.axod.net/pcaQ7P3yxAcyZdCtNZ1I1tVgkU_xsuyS0djQACp_ecYUMxisI4FIFrLy-yiEvKOHi2ZLVoKrlvwVn0BpmamVTSrWnJftXgRP34oao8bcxLkxlhyK54eDrOy2uq4UH-_eNzQuyYnSntJRtWl1Q-foOl7oRuK_lSMlQ7v0PzBR.jpeg" class="img-fluid" alt="@DailyVibeWithKwins"></div>
+							<div class="stats">
+								<div class="flex items-center mb-1"><span><svg class="svg-inline--fa fa-clock fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="clock" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M256,8C119,8,8,119,8,256S119,504,256,504,504,393,504,256,393,8,256,8Zm92.49,313h0l-20,25a16,16,0,0,1-22.49,2.5h0l-67-49.72a40,40,0,0,1-15-31.23V112a16,16,0,0,1,16-16h32a16,16,0,0,1,16,16V256l58,42.5A16,16,0,0,1,348.49,321Z"></path></svg><!-- <i class="fas fa-clock" aria-hidden="true"></i> Font Awesome fontawesome.com --> 2 months ago</span></div>								
+								<div class="flex items-center mb-1"><span><svg class="svg-inline--fa fa-play fa-w-14" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="play" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M424.4 214.7L72.4 6.6C43.8-10.3 0 6.1 0 47.9V464c0 37.5 40.7 60.1 72.4 41.3l352-208c31.4-18.5 31.5-64.1 0-82.6z"></path></svg><!-- <i class="fas fa-play" aria-hidden="true"></i> Font Awesome fontawesome.com --> 1.06M</span></div>									
+								<div class="flex items-center mb-1"><span><svg class="svg-inline--fa fa-heart fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="heart" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M462.3 62.6C407.5 15.9 326 24.3 275.7 76.2L256 96.5l-19.7-20.3C186.1 24.3 104.5 15.9 49.7 62.6c-62.8 53.6-66.1 149.8-9.9 207.9l193.5 199.8c12.5 12.9 32.8 12.9 45.3 0l193.5-199.8c56.3-58.1 53-154.3-9.8-207.9z"></path></svg><!-- <i class="fas fa-heart" aria-hidden="true"></i> Font Awesome fontawesome.com --> 20.2K</span></div>
+								<div class="flex items-center mb-1"><span><svg class="svg-inline--fa fa-comment fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="comment" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M256 32C114.6 32 0 125.1 0 240c0 49.6 21.4 95 57 130.7C44.5 421.1 2.7 466 2.2 466.5c-2.2 2.3-2.8 5.7-1.5 8.7S4.8 480 8 480c66.3 0 116-31.8 140.6-51.4 32.7 12.3 69 19.4 107.4 19.4 141.4 0 256-93.1 256-208S397.4 32 256 32z"></path></svg><!-- <i class="fas fa-comment" aria-hidden="true"></i> Font Awesome fontawesome.com --> 1K</span></div>																						
+							</div>			
+							<div class="info3">
+								<div class="author-name"><a href="https://urlebird.com/user/dailyvibewithkwins/">@dailyvibewithkwins</a></div>	
+								<a href="https://urlebird.com/video/if-youre-also-dealing-with-skin-tags-consider-this-your-sign-to-7655066682121178371/"><span>If you&amp;rsquo;re also dealing with skin tags, consider th...</span></a>
+							</div>
+							<a href="https://urlebird.com/video/if-youre-also-dealing-with-skin-tags-consider-this-your-sign-to-7655066682121178371/"><div class="overlay-s"></div></a>
+							<div class="overlay-shadow"></div>
+						</div><div class="d-block d-md-none text-center mt-1 mb-1"><iframe data-aa="2376701" src="//ad.a-ads.com/2376701?size=320x100" style="width:320px; height:100px; border:0px; padding:0; overflow:hidden; background-color: transparent;"></iframe></div><div class="thumb wc">
+							<div class="author text-right">
+								<a href="https://urlebird.com/user/trydermaclear/"><img src="https://p16-common.tiktokcdn.com/tos-useast8-avt-0068-tx2/e32ff42bc9dfcfe8a9e084c7dd7f72ed~tplv-tiktokx-cropcenter:100:100.jpeg" data-src="https://p16-common.tiktokcdn.com/tos-useast8-avt-0068-tx2/e32ff42bc9dfcfe8a9e084c7dd7f72ed~tplv-tiktokx-cropcenter:100:100.jpeg" class=" lazyloaded" alt="trydermaclear"></a>
+							</div>
+							<div class="img"><img src="https://i.axod.net/pcYc7f2CyAciDb7nV51ODNTQEhecpAzO4njTemKuYFO84iC3ZIEoBvsgnjqcI9vskCqg90Eh3dqSCx15sYqN0DBVuy4sN5uIoAiW7UgVaXOmHimP-05m1ZqVz6CzvBhqt9DC1dNCezS46zwoEoOvBOfsDYjuHoNl5LJNIOJoHOZzuQ.jpeg" data-src="https://i.axod.net/pcYc7f2CyAciDb7nV51ODNTQEhecpAzO4njTemKuYFO84iC3ZIEoBvsgnjqcI9vskCqg90Eh3dqSCx15sYqN0DBVuy4sN5uIoAiW7UgVaXOmHimP-05m1ZqVz6CzvBhqt9DC1dNCezS46zwoEoOvBOfsDYjuHoNl5LJNIOJoHOZzuQ.jpeg" class="img-fluid lazyloaded" alt="@dermaclear"></div>
+							<div class="stats">
+								<div class="flex items-center mb-1"><span><svg class="svg-inline--fa fa-clock fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="clock" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M256,8C119,8,8,119,8,256S119,504,256,504,504,393,504,256,393,8,256,8Zm92.49,313h0l-20,25a16,16,0,0,1-22.49,2.5h0l-67-49.72a40,40,0,0,1-15-31.23V112a16,16,0,0,1,16-16h32a16,16,0,0,1,16,16V256l58,42.5A16,16,0,0,1,348.49,321Z"></path></svg><!-- <i class="fas fa-clock" aria-hidden="true"></i> Font Awesome fontawesome.com --> 3 weeks ago</span></div>								
+								<div class="flex items-center mb-1"><span><svg class="svg-inline--fa fa-play fa-w-14" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="play" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M424.4 214.7L72.4 6.6C43.8-10.3 0 6.1 0 47.9V464c0 37.5 40.7 60.1 72.4 41.3l352-208c31.4-18.5 31.5-64.1 0-82.6z"></path></svg><!-- <i class="fas fa-play" aria-hidden="true"></i> Font Awesome fontawesome.com --> 861</span></div>									
+								<div class="flex items-center mb-1"><span><svg class="svg-inline--fa fa-heart fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="heart" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M462.3 62.6C407.5 15.9 326 24.3 275.7 76.2L256 96.5l-19.7-20.3C186.1 24.3 104.5 15.9 49.7 62.6c-62.8 53.6-66.1 149.8-9.9 207.9l193.5 199.8c12.5 12.9 32.8 12.9 45.3 0l193.5-199.8c56.3-58.1 53-154.3-9.8-207.9z"></path></svg><!-- <i class="fas fa-heart" aria-hidden="true"></i> Font Awesome fontawesome.com --> 16</span></div>
+								<div class="flex items-center mb-1"><span><svg class="svg-inline--fa fa-comment fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="comment" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M256 32C114.6 32 0 125.1 0 240c0 49.6 21.4 95 57 130.7C44.5 421.1 2.7 466 2.2 466.5c-2.2 2.3-2.8 5.7-1.5 8.7S4.8 480 8 480c66.3 0 116-31.8 140.6-51.4 32.7 12.3 69 19.4 107.4 19.4 141.4 0 256-93.1 256-208S397.4 32 256 32z"></path></svg><!-- <i class="fas fa-comment" aria-hidden="true"></i> Font Awesome fontawesome.com --> 1</span></div>																						
+							</div>			
+							<div class="info3">
+								<div class="author-name"><a href="https://urlebird.com/user/trydermaclear/">@trydermaclear</a></div>	
+								<a href="https://urlebird.com/video/remove-your-skin-tag-in-7-days-7677728559904869645/"><span>Remove your skin tag in 7 days 😍😳 #dermaclear #skinclear #sk...</span></a>
+							</div>
+							<a href="https://urlebird.com/video/remove-your-skin-tag-in-7-days-7677728559904869645/"><div class="overlay-s"></div></a>
+							<div class="overlay-shadow"></div>
+						</div><div class="thumb wc">
+							<div class="author text-right">
+								<a href="https://urlebird.com/user/juliet..okoh/"><img src="https://p16-sg.tiktokcdn.com/tos-maliva-avt-0068/fec1cbfc59802934a33788e1a7683f1c~tplv-tiktokx-cropcenter:100:100.jpeg" data-src="https://p16-sg.tiktokcdn.com/tos-maliva-avt-0068/fec1cbfc59802934a33788e1a7683f1c~tplv-tiktokx-cropcenter:100:100.jpeg" class=" lazyloaded" alt="juliet..okoh"></a>
+							</div>
+							<div class="img"><img src="https://i.axod.net/pcYQ6L2SxMcCUUd9T9W7NH0mlggpe5GvYVD4rHkOrfqtNnC6bcXI9KqObg_GQG3Dt8HUkBXR0igqpKJJTEulIQbmjkCCygX_PIuiD9sISIwprk2efThFvf3Tu-9Ih83rhUgy7_DSr1coptm_Oa05_Mslqd0gFvLp6vufOdlv.jpeg" data-src="https://i.axod.net/pcYQ6L2SxMcCUUd9T9W7NH0mlggpe5GvYVD4rHkOrfqtNnC6bcXI9KqObg_GQG3Dt8HUkBXR0igqpKJJTEulIQbmjkCCygX_PIuiD9sISIwprk2efThFvf3Tu-9Ih83rhUgy7_DSr1coptm_Oa05_Mslqd0gFvLp6vufOdlv.jpeg" class="img-fluid lazyloaded" alt="@juliet..okoh"></div>
+							<div class="stats">
+								<div class="flex items-center mb-1"><span><svg class="svg-inline--fa fa-clock fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="clock" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M256,8C119,8,8,119,8,256S119,504,256,504,504,393,504,256,393,8,256,8Zm92.49,313h0l-20,25a16,16,0,0,1-22.49,2.5h0l-67-49.72a40,40,0,0,1-15-31.23V112a16,16,0,0,1,16-16h32a16,16,0,0,1,16,16V256l58,42.5A16,16,0,0,1,348.49,321Z"></path></svg><!-- <i class="fas fa-clock" aria-hidden="true"></i> Font Awesome fontawesome.com --> 1 week ago</span></div>								
+								<div class="flex items-center mb-1"><span><svg class="svg-inline--fa fa-play fa-w-14" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="play" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M424.4 214.7L72.4 6.6C43.8-10.3 0 6.1 0 47.9V464c0 37.5 40.7 60.1 72.4 41.3l352-208c31.4-18.5 31.5-64.1 0-82.6z"></path></svg><!-- <i class="fas fa-play" aria-hidden="true"></i> Font Awesome fontawesome.com --> 34.33K</span></div>									
+								<div class="flex items-center mb-1"><span><svg class="svg-inline--fa fa-heart fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="heart" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M462.3 62.6C407.5 15.9 326 24.3 275.7 76.2L256 96.5l-19.7-20.3C186.1 24.3 104.5 15.9 49.7 62.6c-62.8 53.6-66.1 149.8-9.9 207.9l193.5 199.8c12.5 12.9 32.8 12.9 45.3 0l193.5-199.8c56.3-58.1 53-154.3-9.8-207.9z"></path></svg><!-- <i class="fas fa-heart" aria-hidden="true"></i> Font Awesome fontawesome.com --> 2.01K</span></div>
+								<div class="flex items-center mb-1"><span><svg class="svg-inline--fa fa-comment fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="comment" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M256 32C114.6 32 0 125.1 0 240c0 49.6 21.4 95 57 130.7C44.5 421.1 2.7 466 2.2 466.5c-2.2 2.3-2.8 5.7-1.5 8.7S4.8 480 8 480c66.3 0 116-31.8 140.6-51.4 32.7 12.3 69 19.4 107.4 19.4 141.4 0 256-93.1 256-208S397.4 32 256 32z"></path></svg><!-- <i class="fas fa-comment" aria-hidden="true"></i> Font Awesome fontawesome.com --> 45</span></div>																						
+							</div>			
+							<div class="info3">
+								<div class="author-name"><a href="https://urlebird.com/user/juliet..okoh/">@juliet..okoh</a></div>	
+								<a href="https://urlebird.com/video/i-got-rid-of-my-skin-tag-on-3days-using-apple-cider-vinegar-7684918839066365206/"><span>I got rid of my skin tag on 3days using Apple cider vinegar </span></a>
+							</div>
+							<a href="https://urlebird.com/video/i-got-rid-of-my-skin-tag-on-3days-using-apple-cider-vinegar-7684918839066365206/"><div class="overlay-s"></div></a>
+							<div class="overlay-shadow"></div>
+						</div><div class="thumb wc">
+							<div class="author text-right">
+								<a href="https://urlebird.com/user/beautytips559/"><img src="https://p16-va.tiktokcdn.com/tos-alisg-avt-0068/d659b4f95c1f9bca2c3e439faf088f8e~tplv-tiktokx-cropcenter:100:100.jpeg" data-src="https://p16-va.tiktokcdn.com/tos-alisg-avt-0068/d659b4f95c1f9bca2c3e439faf088f8e~tplv-tiktokx-cropcenter:100:100.jpeg" class=" lazyloaded" alt="beautytips559"></a>
+							</div>
+							<div class="img"><img src="https://i.axod.net/pcaM7P2CzIcDZbCego4D6qKoZDn6UbZPg6TUV9W9LnY3qJVenADHBpAHCs-OQUMwzc-KOtsgLeL4vdiIOt1AyqKUfmpsSEmNjBqDOk-x2yHP9t6KUMKd5al8MqHgOwDLAgpmFPjy71eUuEMIYbFBHMRGCifby-CJxI2gIakP.jpeg" data-src="https://i.axod.net/pcaM7P2CzIcDZbCego4D6qKoZDn6UbZPg6TUV9W9LnY3qJVenADHBpAHCs-OQUMwzc-KOtsgLeL4vdiIOt1AyqKUfmpsSEmNjBqDOk-x2yHP9t6KUMKd5al8MqHgOwDLAgpmFPjy71eUuEMIYbFBHMRGCifby-CJxI2gIakP.jpeg" class="img-fluid lazyloaded" alt="@Beautytips"></div>
+							<div class="stats">
+								<div class="flex items-center mb-1"><span><svg class="svg-inline--fa fa-clock fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="clock" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M256,8C119,8,8,119,8,256S119,504,256,504,504,393,504,256,393,8,256,8Zm92.49,313h0l-20,25a16,16,0,0,1-22.49,2.5h0l-67-49.72a40,40,0,0,1-15-31.23V112a16,16,0,0,1,16-16h32a16,16,0,0,1,16,16V256l58,42.5A16,16,0,0,1,348.49,321Z"></path></svg><!-- <i class="fas fa-clock" aria-hidden="true"></i> Font Awesome fontawesome.com --> 2 months ago</span></div>								
+								<div class="flex items-center mb-1"><span><svg class="svg-inline--fa fa-play fa-w-14" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="play" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M424.4 214.7L72.4 6.6C43.8-10.3 0 6.1 0 47.9V464c0 37.5 40.7 60.1 72.4 41.3l352-208c31.4-18.5 31.5-64.1 0-82.6z"></path></svg><!-- <i class="fas fa-play" aria-hidden="true"></i> Font Awesome fontawesome.com --> 281.99K</span></div>									
+								<div class="flex items-center mb-1"><span><svg class="svg-inline--fa fa-heart fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="heart" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M462.3 62.6C407.5 15.9 326 24.3 275.7 76.2L256 96.5l-19.7-20.3C186.1 24.3 104.5 15.9 49.7 62.6c-62.8 53.6-66.1 149.8-9.9 207.9l193.5 199.8c12.5 12.9 32.8 12.9 45.3 0l193.5-199.8c56.3-58.1 53-154.3-9.8-207.9z"></path></svg><!-- <i class="fas fa-heart" aria-hidden="true"></i> Font Awesome fontawesome.com --> 2.92K</span></div>
+								<div class="flex items-center mb-1"><span><svg class="svg-inline--fa fa-comment fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="comment" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M256 32C114.6 32 0 125.1 0 240c0 49.6 21.4 95 57 130.7C44.5 421.1 2.7 466 2.2 466.5c-2.2 2.3-2.8 5.7-1.5 8.7S4.8 480 8 480c66.3 0 116-31.8 140.6-51.4 32.7 12.3 69 19.4 107.4 19.4 141.4 0 256-93.1 256-208S397.4 32 256 32z"></path></svg><!-- <i class="fas fa-comment" aria-hidden="true"></i> Font Awesome fontawesome.com --> 16</span></div>																						
+							</div>			
+							<div class="info3">
+								<div class="author-name"><a href="https://urlebird.com/user/beautytips559/">@beautytips559</a></div>	
+								<a href="https://urlebird.com/video/7662785314020199701/"><span>#tips #hair #skin #fr #foryou </span></a>
+							</div>
+							<a href="https://urlebird.com/video/7662785314020199701/"><div class="overlay-s"></div></a>
+							<div class="overlay-shadow"></div>
+						</div><div class="thumb wc">
+							<div class="author text-right">
+								<a href="https://urlebird.com/user/ayokabeauty_spa/"><img src="https://p16-sg.tiktokcdn.com/tos-maliva-avt-0068/7c6f0928f73613668d4bacc298761fe7~tplv-tiktokx-cropcenter:100:100.jpeg" data-src="https://p16-sg.tiktokcdn.com/tos-maliva-avt-0068/7c6f0928f73613668d4bacc298761fe7~tplv-tiktokx-cropcenter:100:100.jpeg" class=" lazyloaded" alt="ayokabeauty_spa"></a>
+							</div>
+							<div class="img"><img src="https://i.axod.net/qzplNTJ8G0oejZlVqg1artMrHzF66p9KjQcX4W7nJWpMSd-qgmjSgA8jdOb_PBJ7deg4whAHSV_9ULLf0yyvj1rQPiiSHg3bkHGRkgrUhO0gs8OzwT7zrevZzWFzEfaWKs6HckTivQSIWroHRmGUcXaEZH1ffXCKZZPi6AGcJVM.jpeg" data-src="https://i.axod.net/qzplNTJ8G0oejZlVqg1artMrHzF66p9KjQcX4W7nJWpMSd-qgmjSgA8jdOb_PBJ7deg4whAHSV_9ULLf0yyvj1rQPiiSHg3bkHGRkgrUhO0gs8OzwT7zrevZzWFzEfaWKs6HckTivQSIWroHRmGUcXaEZH1ffXCKZZPi6AGcJVM.jpeg" class="img-fluid lazyloaded" alt="@Ayokabeauty|🌿Skincare"></div>
+							<div class="stats">
+								<div class="flex items-center mb-1"><span><svg class="svg-inline--fa fa-clock fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="clock" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M256,8C119,8,8,119,8,256S119,504,256,504,504,393,504,256,393,8,256,8Zm92.49,313h0l-20,25a16,16,0,0,1-22.49,2.5h0l-67-49.72a40,40,0,0,1-15-31.23V112a16,16,0,0,1,16-16h32a16,16,0,0,1,16,16V256l58,42.5A16,16,0,0,1,348.49,321Z"></path></svg><!-- <i class="fas fa-clock" aria-hidden="true"></i> Font Awesome fontawesome.com --> 1 week ago</span></div>								
+								<div class="flex items-center mb-1"><span><svg class="svg-inline--fa fa-play fa-w-14" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="play" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M424.4 214.7L72.4 6.6C43.8-10.3 0 6.1 0 47.9V464c0 37.5 40.7 60.1 72.4 41.3l352-208c31.4-18.5 31.5-64.1 0-82.6z"></path></svg><!-- <i class="fas fa-play" aria-hidden="true"></i> Font Awesome fontawesome.com --> 6.19K</span></div>									
+								<div class="flex items-center mb-1"><span><svg class="svg-inline--fa fa-heart fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="heart" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M462.3 62.6C407.5 15.9 326 24.3 275.7 76.2L256 96.5l-19.7-20.3C186.1 24.3 104.5 15.9 49.7 62.6c-62.8 53.6-66.1 149.8-9.9 207.9l193.5 199.8c12.5 12.9 32.8 12.9 45.3 0l193.5-199.8c56.3-58.1 53-154.3-9.8-207.9z"></path></svg><!-- <i class="fas fa-heart" aria-hidden="true"></i> Font Awesome fontawesome.com --> 168</span></div>
+								<div class="flex items-center mb-1"><span><svg class="svg-inline--fa fa-comment fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="comment" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M256 32C114.6 32 0 125.1 0 240c0 49.6 21.4 95 57 130.7C44.5 421.1 2.7 466 2.2 466.5c-2.2 2.3-2.8 5.7-1.5 8.7S4.8 480 8 480c66.3 0 116-31.8 140.6-51.4 32.7 12.3 69 19.4 107.4 19.4 141.4 0 256-93.1 256-208S397.4 32 256 32z"></path></svg><!-- <i class="fas fa-comment" aria-hidden="true"></i> Font Awesome fontawesome.com --> 16</span></div>																						
+							</div>			
+							<div class="info3">
+								<div class="author-name"><a href="https://urlebird.com/user/ayokabeauty_spa/">@ayokabeauty_spa</a></div>	
+								<a href="https://urlebird.com/video/7684333257776827669/"><span>#viralvideo #fyp </span></a>
+							</div>
+							<a href="https://urlebird.com/video/7684333257776827669/"><div class="overlay-s"></div></a>
+							<div class="overlay-shadow"></div>
+						</div><div class="thumb wc">
+							<div class="author text-right">
+								<a href="https://urlebird.com/user/skinfreely/"><img src="https://p16-va.tiktokcdn.com/tos-alisg-avt-0068/39952a34cbc026cda2791a391a5e1e4e~tplv-tiktokx-cropcenter:100:100.jpeg" data-src="https://p16-va.tiktokcdn.com/tos-alisg-avt-0068/39952a34cbc026cda2791a391a5e1e4e~tplv-tiktokx-cropcenter:100:100.jpeg" class=" lazyloaded" alt="skinfreely"></a>
+							</div>
+							<div class="img"><img src="https://i.axod.net/pcaA6P2SwIcDbfDwBeEaOSI4udKtX_Y3gpAUxd2Jwu10AC_yOR7FftjUs01R4pmEGYuAEweMn_--8MrDj7B_CiLjdkpsq6L33eP4y9XnCjLBpQGK00WU5kR57o8_BxnmtQlGuffAeO_6dsq0FSPbyRhHIBo9BGOXKOT-FzpV.jpeg" data-src="https://i.axod.net/pcaA6P2SwIcDbfDwBeEaOSI4udKtX_Y3gpAUxd2Jwu10AC_yOR7FftjUs01R4pmEGYuAEweMn_--8MrDj7B_CiLjdkpsq6L33eP4y9XnCjLBpQGK00WU5kR57o8_BxnmtQlGuffAeO_6dsq0FSPbyRhHIBo9BGOXKOT-FzpV.jpeg" class="img-fluid lazyloaded" alt="@skinfreely"></div>
+							<div class="stats">
+								<div class="flex items-center mb-1"><span><svg class="svg-inline--fa fa-clock fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="clock" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M256,8C119,8,8,119,8,256S119,504,256,504,504,393,504,256,393,8,256,8Zm92.49,313h0l-20,25a16,16,0,0,1-22.49,2.5h0l-67-49.72a40,40,0,0,1-15-31.23V112a16,16,0,0,1,16-16h32a16,16,0,0,1,16,16V256l58,42.5A16,16,0,0,1,348.49,321Z"></path></svg><!-- <i class="fas fa-clock" aria-hidden="true"></i> Font Awesome fontawesome.com --> 2 days ago</span></div>								
+								<div class="flex items-center mb-1"><span><svg class="svg-inline--fa fa-play fa-w-14" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="play" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M424.4 214.7L72.4 6.6C43.8-10.3 0 6.1 0 47.9V464c0 37.5 40.7 60.1 72.4 41.3l352-208c31.4-18.5 31.5-64.1 0-82.6z"></path></svg><!-- <i class="fas fa-play" aria-hidden="true"></i> Font Awesome fontawesome.com --> 729</span></div>									
+								<div class="flex items-center mb-1"><span><svg class="svg-inline--fa fa-heart fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="heart" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M462.3 62.6C407.5 15.9 326 24.3 275.7 76.2L256 96.5l-19.7-20.3C186.1 24.3 104.5 15.9 49.7 62.6c-62.8 53.6-66.1 149.8-9.9 207.9l193.5 199.8c12.5 12.9 32.8 12.9 45.3 0l193.5-199.8c56.3-58.1 53-154.3-9.8-207.9z"></path></svg><!-- <i class="fas fa-heart" aria-hidden="true"></i> Font Awesome fontawesome.com --> 2</span></div>
+								<div class="flex items-center mb-1"><span><svg class="svg-inline--fa fa-comment fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="comment" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M256 32C114.6 32 0 125.1 0 240c0 49.6 21.4 95 57 130.7C44.5 421.1 2.7 466 2.2 466.5c-2.2 2.3-2.8 5.7-1.5 8.7S4.8 480 8 480c66.3 0 116-31.8 140.6-51.4 32.7 12.3 69 19.4 107.4 19.4 141.4 0 256-93.1 256-208S397.4 32 256 32z"></path></svg><!-- <i class="fas fa-comment" aria-hidden="true"></i> Font Awesome fontawesome.com --> 0</span></div>																						
+							</div>			
+							<div class="info3">
+								<div class="author-name"><a href="https://urlebird.com/user/skinfreely/">@skinfreely</a></div>	
+								<a href="https://urlebird.com/video/link-in-bio-7686824953790074133/"><span>Link in Bio 👀 #skintag #skintagremoval #skintags #skincare...</span></a>
+							</div>
+							<a href="https://urlebird.com/video/link-in-bio-7686824953790074133/"><div class="overlay-s"></div></a>
+							<div class="overlay-shadow"></div>
+						</div>
+					</div>			
+				</div>
+				<div class="row">
+					<div class="col-md-12 mt-3 justify-content-center text-center">
+						<button class="flat mb-4" id="search_load_more" data-q="ce1d3053935b195cbBmCfVqjPJnh3YtD6-8XKzv1LWMHjbG92TEjGp1eBvM" data-c="438510527db0d24fawGjppnzj29TjyqfQofCnw" data-lang="" data-no-more="No more video" data-x="bda605b282236bebhgL9ZKUz7dlsR8CpPmVd4xQVSJl5sq6YEgqag9fFJnk" t="">Load More</button>
+					</div>
+				</div>				
+			</div>
+		</div>
+		<footer class="page-footer font-small blue py-2">
+	<div class="container-fluid text-center text-md-left">
+		<div class="row">
+			<div class="col-md-7 mt-md-0 mt-3 d-none d-md-block copyright">
+				Made with ❤️ <a href="https://urlebird.com/" title="The is most comfortable tiktok online viewer">UrleBird.com</a> 
+				<span class="sp">|</span> <a href="https://urlebird.com/page/privacy-policy/">Privacy Policy</a> 
+				<span class="sp">|</span> <a href="https://urlebird.com/page/terms-of-use/">Terms of Use</a> 
+				<span class="sp">|</span> <a href="https://urlebird.com/contact-us/">Contact Us</a> 
+				<span class="sp">|</span> <a href="https://urlebird.com/removal-request/">Removal</a>
+				<span class="sp">|</span> <a href="https://urlebird.com/page/about-us/">About Us</a>
+			</div>
+			<div class="col-md-7 mt-md-0 mt-3 d-md-none copyright">
+				Made with ❤️ <a href="https://urlebird.com/" title="The is most comfortable tiktok online viewer">UrleBird.com</a>
+				<div class="mb-1"></div>
+				<a href="https://urlebird.com/page/privacy-policy/">Privacy Policy</a><br>
+				<a href="https://urlebird.com/page/terms-of-use/">Terms of Use</a><br>
+				<a href="https://urlebird.com/contact-us/">Contact Us</a><br>
+				<a href="https://urlebird.com/removal-request/">Removal</a><br>
+				<a href="https://urlebird.com/page/about-us/">About Us</a>
+			</div>
+			<hr class="clearfix w-100 d-md-none pb-1">
+			<div class="col-md-5 mb-md-0 mb-3 d-none d-md-block langs">
+				<a href="https://urlebird.com/search/?q=skin tag remover"><img src="https://urlebird.com/tml/images/flags/us.png" class="flag" alt="us"></a>
+				<a href="https://urlebird.com/ru/search/?q=skin tag remover"><img src="https://urlebird.com/tml/images/flags/ru.png" class="flag" alt="ru"></a>
+				<a href="https://urlebird.com/ua/search/?q=skin tag remover"><img src="https://urlebird.com/tml/images/flags/ua.png" class="flag" alt="ua"></a>
+				<a href="https://urlebird.com/es/search/?q=skin tag remover"><img src="https://urlebird.com/tml/images/flags/es.png" class="flag" alt="es"></a>
+				<a href="https://urlebird.com/it/search/?q=skin tag remover"><img src="https://urlebird.com/tml/images/flags/it.png" class="flag" alt="it"></a>
+				<a href="https://urlebird.com/de/search/?q=skin tag remover"><img src="https://urlebird.com/tml/images/flags/de.png" class="flag" alt="de"></a>
+				<a href="https://urlebird.com/fr/search/?q=skin tag remover"><img src="https://urlebird.com/tml/images/flags/fr.png" class="flag" alt="fr"></a>	
+				<a href="https://urlebird.com/pt/search/?q=skin tag remover"><img src="https://urlebird.com/tml/images/flags/pt.png" class="flag" alt="pt"></a>		
+			</div>
+			<div class="col-md-5 mb-md-0 mb-3 d-md-none langs">
+				<a href="https://urlebird.com/search/?q=skin tag remover"><img src="https://urlebird.com/tml/images/flags/us.png" class="flag" alt="us"></a>
+				<a href="https://urlebird.com/ru/search/?q=skin tag remover"><img src="https://urlebird.com/tml/images/flags/ru.png" class="flag" alt="ru"></a>
+				<a href="https://urlebird.com/ua/search/?q=skin tag remover"><img src="https://urlebird.com/tml/images/flags/ua.png" class="flag" alt="ua"></a>
+				<a href="https://urlebird.com/es/search/?q=skin tag remover"><img src="https://urlebird.com/tml/images/flags/es.png" class="flag" alt="es"></a>
+				<div class="mb-1"></div>
+				<a href="https://urlebird.com/it/search/?q=skin tag remover"><img src="https://urlebird.com/tml/images/flags/it.png" class="flag" alt="it"></a>
+				<a href="https://urlebird.com/de/search/?q=skin tag remover"><img src="https://urlebird.com/tml/images/flags/de.png" class="flag" alt="de"></a>
+				<a href="https://urlebird.com/fr/search/?q=skin tag remover"><img src="https://urlebird.com/tml/images/flags/fr.png" class="flag" alt="fr"></a>	
+				<a href="https://urlebird.com/pt/search/?q=skin tag remover"><img src="https://urlebird.com/tml/images/flags/pt.png" class="flag" alt="pt"></a>		
+			</div>
+			<hr class="clearfix w-100 d-md-none pb-1">	
+			<div class="col-md-12 mt-2 mb-1">
+				<span class="disclaimer">Urlebird is not associated with official TikTok. We do not host any content on our servers, all videos, photos and previews hosted only on TikTok servers and all rights reserved by their respective owners</span>
+			</div>							
+		</div>
+	</div>
+</footer>
+		<script>
+  function its_mobile() {
+    const toMatch = [/Android/i, /webOS/i, /iPhone/i, /iPad/i, /iPod/i, /BlackBerry/i, /Windows Phone/i];
+    return toMatch.some((toMatchItem) => {
+        return navigator.userAgent.match(toMatchItem);
+    });
+  }
+</script>
+<!-- 300x600
+<script src="//ads.themoneytizer.com/s/gen.js?type=3"></script> 
+<script src="//ads.themoneytizer.com/s/requestform.js?siteId=83467&formatId=3"></script> 
+-->
+
+<script>const country = 'IN';</script>
+
+
+<!--<div id="83467-6"><script src="//ads.themoneytizer.com/s/gen.js?type=6"></script><script src="//ads.themoneytizer.com/s/requestform.js?siteId=83467&formatId=6"></script></div>-->
+
+
+
+<script defer="" src="//code.jquery.com/jquery-3.4.1.min.js"></script>
+<script defer="" src="https://urlebird.com/tml/js/app.js?v=6.2"></script>
+
+<script async="" src="//cdnjs.cloudflare.com/ajax/libs/lazysizes/5.2.0/lazysizes.min.js"></script>
+
+<script defer="" src="//cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+
+<script defer="" src="//stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+<script async="" src="//cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/js/all.min.js"></script>
+
+<script async="" src="//www.googletagmanager.com/gtag/js?id=UA-156932907-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-156932907-1');
+</script>
+	<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a3e7b1620d21a84e',t:'MTc4OTk3OTI2OQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><iframe height="1" width="1" style="position: absolute; top: 0px; left: 0px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; visibility: hidden;"></iframe><script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495" integrity="sha512-iIg7k2xntmwu6/uSb5tpc/hySgZc4eoL31yB29W6tJFo2akwjPWcEqnCEdJvGexCL0KEQwVYv5BlowfhVz26hg==" data-cf-beacon="{&quot;version&quot;:&quot;2024.11.0&quot;,&quot;token&quot;:&quot;b37deba67d544bf48d0c26d2f3d55145&quot;,&quot;spa&quot;:2}" crossorigin="anonymous"></script>
+
+<iframe name="__tcfapiLocator" style="display: none;"></iframe></body></html>
